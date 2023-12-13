@@ -1,2 +1,2 @@
-# TextEditorJava
-An intuitive text editor built using Java and swing packages
+# Texty - TextEditor
+Text Editor developed using java Swing
